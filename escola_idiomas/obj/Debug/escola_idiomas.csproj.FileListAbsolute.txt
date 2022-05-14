@@ -1,0 +1,62 @@
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\escola_idiomas.exe.config
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\escola_idiomas.exe
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\escola_idiomas.pdb
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.csprojAssemblyReference.cache
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_aluno.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.Properties.Resources.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.csproj.GenerateResource.cache
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.csproj.CoreCompileInputs.cache
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.exe
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.pdb
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_login.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_splash.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\MySql.Data.dll
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\Google.Protobuf.dll
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\Renci.SshNet.dll
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\bin\Debug\MySql.Data.xml
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.Form1.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_matricula.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_materia.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_curso.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_classe.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_turma.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_professor.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_escola.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.csproj.CopyComplete
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_tarefa.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_comunicados.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_home.resources
+C:\Users\Felipp Gamer\Desktop\visualstudiocasa\escola_idiomas\obj\Debug\escola_idiomas.frm_conteudo.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\bin\Debug\escola_idiomas.exe.config
+C:\Users\ALUNO\Desktop\escola_idiomas\bin\Debug\escola_idiomas.exe
+C:\Users\ALUNO\Desktop\escola_idiomas\bin\Debug\escola_idiomas.pdb
+C:\Users\ALUNO\Desktop\escola_idiomas\bin\Debug\Google.Protobuf.dll
+C:\Users\ALUNO\Desktop\escola_idiomas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ALUNO\Desktop\escola_idiomas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ALUNO\Desktop\escola_idiomas\bin\Debug\Renci.SshNet.dll
+C:\Users\ALUNO\Desktop\escola_idiomas\bin\Debug\MySql.Data.xml
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.Form1.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_comunicados.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_conteudo.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_home.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_matricula.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_materia.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_curso.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_classe.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_tarefa.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_turma.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_professor.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_aluno.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_escola.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_login.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.frm_splash.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.Properties.Resources.resources
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.csproj.GenerateResource.cache
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.csproj.CopyComplete
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.exe
+C:\Users\ALUNO\Desktop\escola_idiomas\obj\Debug\escola_idiomas.pdb
